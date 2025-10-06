@@ -157,7 +157,6 @@ export default function Root() {
                 <p className="landing-subtitle">Your Gateway to the Stars</p>
                 <button className="landing-button" onClick={() => navigate("/app")}>
                     Take-off
-                    <span className="button-icon">🚀</span>
                 </button>
             </div>
             

@@ -98,13 +98,13 @@ const MarsAnnotationMap = () => {
                 spatialReference: { wkid: 104971 }, // Mars 2000 Sphere
                 camera: {
                     position: {
-                        x: -75,
-                        y: -24,
-                        z: 1281525.766,
+                        x: -5.37351,
+                        y: -2.78455,
+                        z: 17323.085,
                         spatialReference: 104971,
                     },
-                    heading: 0,
-                    tilt: 33,
+                    heading: 0.27,
+                    tilt: 57.98,
                 },
                 environment: {
                     background: { type: "color", color: [0, 0, 0, 1] },
